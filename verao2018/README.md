@@ -17,7 +17,11 @@ Arquivos:
 * Base de dados sqlite:
 marcelobbribeiro_ohls_cryptos.sqlite
 * Notebook com todas as tarefas requisitadas (extração de dados da API, gerenciamento de banco de dados em SQLite, análise exploratória e visualização):
-marcelo_bitcoin_project.ipynb
+marcelobbribeiro_ohls_cryptos.ipynb
+* Arquivo .py com classes de funções (criado em 2018-02-15)
+local_tools.py
+* Notebook que acessa o arquivo .py (criado em 2018-02-15)
+post_delivery_note.ipynb
 
 Notas:
 Primeiramente o próprio notebook verifica se a base de dados já foi criada na pasta de trabalho. Em caso afirmativo, sugere-se pular a parte de extração da API. Em caso negativo, o código inteiro deve ser rodado.
